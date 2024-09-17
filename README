@@ -1,1 +1,5 @@
 Welcome to my first project!
+
+The project is running smoothly and successfully. I am using Google Sheets as a storage solution for data submitted through the form. In the spreadsheet, I have utilized Google Apps Script to create a function that automatically inserts the form data into the sheet upon submission.
+
+Thank you.
